@@ -1,4 +1,4 @@
-let arr = [
+const arr = [
 	{
 		"id": "0001",
 		"type": "donut",
